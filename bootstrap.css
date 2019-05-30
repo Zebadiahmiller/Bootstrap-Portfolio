@@ -1,0 +1,78 @@
+.container{
+    background:#ffffff;
+    margin-bottom:40px;
+   
+
+    
+}
+
+#zebname{
+    background:#4aaaa5;
+    height:50px;
+    width:215px;
+   
+    
+    
+    
+
+    
+}
+#zebhead{
+    
+        position: fixed;
+        top:20px;
+        z-index: 99;
+        width: 100%;
+        margin: 0 0 30px;
+        overflow: auto;
+        color: #ffffff;
+        background: #ffffff;
+        border-bottom: 2px solid #cccccc;
+      
+}
+body{
+    background-image: url(assets/backgroundimg.png);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    color: #777777;
+}
+#emailform{
+    margin-top:50px;
+}
+#paragraphsection{
+    float: left;
+  width: 100%;
+  max-width: 960px;
+  padding: 30px;
+  margin: 0 0 40px;
+  background: #ffffff;
+  border: 1px solid #dddddd;
+  margin-top:20px;
+  border:solid darkgray;
+      }
+      
+.zebandzarek{
+    height:200px;
+    width:200px;
+    border:solid black;
+    float:left;
+    
+}
+footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+    position: fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+  }
+
+  
